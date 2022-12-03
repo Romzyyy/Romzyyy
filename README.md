@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sampurasunxyz@gmail.com**
 
-- ⚡ Fun fact **i am funny 😀**
+- ⚡ Fun fact **i am newbie 😀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
