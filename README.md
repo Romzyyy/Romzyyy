@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Zainur Romzy</h3>
 <h4 align="center">I am a university student and I like programming, especially website development.</h4>
 
-<p>&emsp;&emsp;&emsp;Halo, nama saya m. afif zainur ramzi, dan saya sangat senang Anda mengunjungi halaman saya. Saya seorang pengembang web yang bersemangat dan bercita-cita tinggi, dan selalu mencoba mempelajari hal-hal baru di dunia teknologi. Saya mahasiswa Universitas K.H Bahaudin Mudhary Madura dan saat ini mengambil jurusan Sistem Informasi. Selama kuliah, saya memperoleh pemahaman yang baik tentang dasar-dasar pemrograman web, termasuk HTML, CSS, dan JavaScript. Saya juga aktif dalam proyek - proyek sederhana pengembangan aplikasi web. Dalam upaya mengasah keterampilan saya, saya juga aktif dalam mempelajari framework seperti React dan Node.js serta memahami konsep backend development. Selain itu, saya telah berpartisipasi dalam seminar dan workshop yang bertujuan untuk memperdalam pengetahuan saya dalam dunia teknologi informasi.</p>
+<p>&emsp;&emsp;&emsp;Halo, nama saya m. afif zainur ramzi, dan saya sangat senang Anda mengunjungi halaman saya. Saya seorang pengembang web yang bersemangat dan bercita-cita tinggi, dan selalu mencoba mempelajari hal-hal baru di dunia teknologi. Saya mahasiswa Universitas K.H Bahaudin Mudhary Madura dan saat ini mengambil jurusan Sistem Informasi. Selama kuliah, saya memperoleh pemahaman yang baik tentang dasar-dasar pemrograman web, termasuk HTML, CSS, dan JavaScript. Saya juga aktif dalam proyek - proyek sederhana pengembangan aplikasi web.</p>
 
 - All of my projects are available at [romzyyy.vercel.app](romzyyy.vercel.app)
 
